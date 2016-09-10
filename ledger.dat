@@ -1,0 +1,12 @@
+; -*- ledger -*-
+
+2016/09/10 14:00:00 * Founder Block
+    Assets:Treasury               600 GDASH
+    FX:GDASH:DashMNGuild          -600 GDASH
+    XP:Issued                     -1 XP
+    XP:Earned:isysd               1 XP
+    GTRD:Issued                   -1 GTRD
+    GTRD:Earned:isysd             1 GTRD
+
+P 2016/09/10 14:00:01 GTRD 600 GDASH
+
