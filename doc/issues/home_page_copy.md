@@ -1,0 +1,1 @@
+Write website home page copy, which will be the most important page. It is the sales funnel.

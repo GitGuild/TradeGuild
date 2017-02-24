@@ -1,0 +1,1 @@
+Write Terms of Service for Trade Guild users, including indemnity against any losses.

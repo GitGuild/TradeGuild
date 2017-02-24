@@ -1,0 +1,1 @@
+Write technical overview, including links to Trade Manager, it's plugins, and it's bots (those that are published).

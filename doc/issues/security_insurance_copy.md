@@ -1,0 +1,1 @@
+Write security page copy, including insurance fund.

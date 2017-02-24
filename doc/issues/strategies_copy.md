@@ -1,0 +1,1 @@
+Write copy for "strategies" page describing the different bots that are available.

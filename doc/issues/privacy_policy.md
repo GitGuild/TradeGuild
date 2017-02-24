@@ -1,0 +1,1 @@
+Write privacy policy for Trade Guild users, including pseudonymous data publishing for Beginner and Intermediate accounts.

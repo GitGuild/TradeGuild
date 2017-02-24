@@ -2,7 +2,7 @@
 
 ##### The Safe, minimal trust way for non-professionals to invest in digital currencies.
 
-The Trade Guild (mirrors: [trdguild.com](https://trdguild.com), [tradeguild.co](https://tradeguild.co), [trdgld.com](https://trdgld.com) coming soon) is a secure, distributed digital currency investment fund featuring automated management, self-insurance, and tamper-proof accounting records published on a blockchain.
+The Trade Guild ([tradeguild.io](https://tradeguild.io) coming soon) is a secure, distributed digital currency investment fund featuring automated management, self-insurance, and tamper-proof accounting records published on a blockchain.
 
 Users will be able to manage their digital currency investments from an online portfolio, and instruct automated trade bots in investment strategy.
 
@@ -28,10 +28,10 @@ The Trade Guild's main feature set is automated trading of digital currency toke
 
 The Trade Guild will support trading the following digital currency exchanges.
 
-+ [Bitfinex](https://bitfinex.com) The highest volume USD exchange. Offers up to 3x margin on a number of tokens.
++ [Bitfinex](https://www.bitfinex.com/?refcode=01xKtJ5kvg) The highest volume USD exchange. Offers up to 3x margin on a number of tokens.
 + [Kraken](https://kraken.com) The highest volume EUR exchange. Offers up to 3x margin on a number of tokens.
 + [Poloniex](https://poloniex.com) The highest volume altcoin exchange. Offers up to 5x margin on a number of tokens.
-+ [Bitmex](https://www.bitmex.com/register/I20ONy) merchantile exchange. Offers up to 100x margin on derivatives, i.e. futures or swaps.
++ [Bitmex](https://www.bitmex.com/register/I20ONy) mercantile exchange. Offers up to 100x margin on derivatives, i.e. futures or swaps.
 
 ##### Tokens
 
@@ -90,7 +90,7 @@ In addition to standard plans and trade bots, users may request additional consu
 ##### Referral
 
 To compensate our marketing partners, as well as user to user referrals, 10% of any setup and quarterly fees will go to the referrer. This includes setup, hosting, and profit sharing, but not custom development, consultations, or Vault withdrawal fees.
-  
+
 ##### Self-Insurance
 
 An internal insurance fund will be set up to cover any loss of funds or disputes. This fund will be denominated in bitcoin, and stored in a published multi-signature address. The insurance fund will receive 10% of any setup and quarterly fees. This includes setup, hosting, and profit sharing, but not custom development, consultations, or Vault withdrawal fees.
@@ -142,4 +142,4 @@ After two weeks of testing and feedback-driven improvements, we will do a full p
 
 __TBD - Vault Launch__
 
-At a to be determined date, the Vault will be added to trdguild.com. This is significantly different from the other services to be provided by the Trade Guild, and will require significant time investment.
+At a to be determined date, the Vault will be added to tradeguild.io. This is significantly different from the other services to be provided by the Trade Guild, and will require significant time investment.
